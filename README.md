@@ -2,7 +2,7 @@
 
 ## Important Notes
 
-|This project uses `node@16` and `react-scripts@4.0.3` to ensure that live reload works properly. Not sure why this is needed exactly, but there is [SO Thread about the problem](https://stackoverflow.com/a/71744724).
+| ⚠️ This project uses `node@16` and `react-scripts@4.0.3` to ensure that live reload works properly. Not sure why this is needed exactly, but there is [SO Thread about the problem](https://stackoverflow.com/a/71744724).
 |:---|
 
 
